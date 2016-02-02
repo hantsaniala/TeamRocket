@@ -1,7 +1,7 @@
 # TeamRocket
 
 ## About
-TeamRocket is an small desktop application wrote in Python and implemented by Qt5 for the Gui. At first it's just an transaction manager for the Team Rocket. It's basic functionality is to take all transaction, calculate the percent for all account and their sold, return the rest of the cash money.
+TeamRocket is a small desktop application written in Python and implemented by Qt5 for the Gui. At first it's just a transaction manager for Team Rocket (the team). Its basic functionalities are to take all transactions, calculate the percentage of all accounts and their balance, return the remaining cash money.
 
 ## Requirement
 + [Python 3.4](https://www.python.org/downloads/release/python-340/)
